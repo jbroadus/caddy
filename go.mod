@@ -139,3 +139,5 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	howett.net/plist v1.0.0 // indirect
 )
+
+replace github.com/cespare/xxhash => github.com/kraj/xxhash v1.1.1-0.20211201014032-8254a11eab56
